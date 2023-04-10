@@ -7,3 +7,5 @@ async function pullWeather(){
 
     console.log(data)
 }
+pullWeather();
+
