@@ -1,5 +1,8 @@
-header{
+html{
     display: flex;
     margin: auto;
     background-color: darkcyan;
+}
+.search{
+    padding: 10px;
 }
